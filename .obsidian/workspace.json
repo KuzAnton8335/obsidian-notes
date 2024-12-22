@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "3f3d5ff1745ab166",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbf0de7953a826dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5287fd97b4f750c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b43275f544ece463",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded91e30468186f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04b1436742af5396",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e706dadd432c482e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b95335666226e4fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff6b5c4af6c4d6dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd4f3eb79b49b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9788e7651fcbf2a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML-CSS/⚡ 5 HTML-атрибутов для улучшения пользовательского опыта и SEO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для ⚡ 5 HTML-атрибутов для улучшения пользовательского опыта и SEO"
+            }
+          },
+          {
+            "id": "c6feb269d8d3b193",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTML-CSS/Тонкая настройка текстовых полей.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Тонкая настройка текстовых полей"
+            }
+          },
+          {
+            "id": "7beb6cc14403dcff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4061d48a82cba9a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTML-CSS/Тонкая настройка текстовых полей.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Тонкая настройка текстовых полей"
+            }
+          },
+          {
+            "id": "c3de3782031fa9e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5287fd97b4f750c1",
+  "lastOpenFiles": [
+    "Добро пожаловать.md",
+    "obsidian-notes/testings notes.md",
+    "obsidian-notes",
+    "Без названия",
+    "obsidian-notes/README.md",
+    "obsidian-notes/testings notes.md",
+    "Новая папка",
+    "HTML-CSS/Современные тренды CSS  эволюция функций.md",
+    "HTML-CSS/⚡ 5 HTML-атрибутов для улучшения пользовательского опыта и SEO.md",
+    "HTML-CSS/Тонкая настройка текстовых полей.md",
+    "HTML-CSS/Условный border-radius в CSS.md",
+    "HTML-CSS/image-cart-1.jpg",
+    "Pasted image 20241214221455.png",
+    "Pasted image 20241214221236.png",
+    "HTML-CSS"
+  ]
+}
