@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf0de7953a826dc",
+        "id": "5339cf7bd311c261",
         "type": "tabs",
         "children": [
           {
-            "id": "5287fd97b4f750c1",
+            "id": "c330817cf34b906d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "React-base/Single source of Truth.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Single source of Truth"
             }
           }
         ]
@@ -169,18 +173,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5287fd97b4f750c1",
+  "active": "04b1436742af5396",
   "lastOpenFiles": [
+    "HTML-CSS/⚡ 5 HTML-атрибутов для улучшения пользовательского опыта и SEO.md",
+    "React-base/Single source of Truth.md",
+    "React-base",
+    "HTML-CSS/Тонкая настройка текстовых полей.md",
     "Добро пожаловать.md",
     "obsidian-notes/testings notes.md",
     "obsidian-notes",
-    "Без названия",
     "obsidian-notes/README.md",
     "obsidian-notes/testings notes.md",
     "Новая папка",
     "HTML-CSS/Современные тренды CSS  эволюция функций.md",
-    "HTML-CSS/⚡ 5 HTML-атрибутов для улучшения пользовательского опыта и SEO.md",
-    "HTML-CSS/Тонкая настройка текстовых полей.md",
     "HTML-CSS/Условный border-radius в CSS.md",
     "HTML-CSS/image-cart-1.jpg",
     "Pasted image 20241214221455.png",
